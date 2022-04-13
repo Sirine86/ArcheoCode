@@ -26,3 +26,9 @@ It’s also very useful to download GitHub desktop which is a graphical user int
 and pull (download) changes to/from remote repositories. It can be downloaded on window and Mac 
 through https://desktop.github.com/, you have to login onto your account through File>option>account.
 Once you’ve finishing all requires, you can clone repository (past folder) and start explore the function. 
+
+**##PyCharm:**
+once we have all the requires to start using the function, you have to open the PyCharm community and move to
+the file of script which is located in the same folder of repository. 
+Be sure and take attention to read each command and try to understand what each one means,
+the comments which is following the sign ‘##’ explain each function and command do with identifying each parameter.
