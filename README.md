@@ -24,4 +24,5 @@ You have to install git by following the steps on https://git-scm.com/downloads,
 it’s important to fork or copy-paste the repository of ArcheoCode onto your computer.
 It’s also very useful to download GitHub desktop which is a graphical user interface and enable you to push (upload)
 and pull (download) changes to/from remote repositories. It can be downloaded on window and Mac 
-through https://desktop.github.com/, you have to login onto your account through 
+through https://desktop.github.com/, you have to login onto your account through File>option>account.
+Once you’ve finishing all requires, you can clone repository (past folder) and start explore the function. 
