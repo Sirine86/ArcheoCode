@@ -1,4 +1,26 @@
-# ArcheoCode
+# **_ArcheoCode_**
 A function that helps archeologist to determine archeological sites or features with a specific buffer zone
-##Getting start:
-We start by downloading some software onto our computer which support the function work. In addition, it’s useful to read and get some information about phyton language and its packages. 
+##**Getting start:**
+We start by downloading some software onto our computer which support the function work. 
+In addition, it’s useful to read and get some information about phyton language and its packages. 
+
+For using the function, there is some setup and installation we have to follow. 
+
+##**Anaconda navigator:**
+It’s a desktop graphical user interface (GUI), that allows us to launch application and manage Conda packages,
+it’s a distribution of the Phyton and programing languages for scientific computing.
+It can be downloaded onto any types of computers by following the link Installation — Anaconda documentation and 
+choose your type of pc. The steps are very clear, you have only to follow them.
+Then, we have to create a Conda environment which is a directory contains all packages you have to install. 
+The one we are interested in, is the PyCharm community edition which is an integrated development environment (IDE)
+that helps us in programing, through it we can write our script and save it into (.py) phyton extension. 
+
+##**GitHub:**
+Git is a version control software that helps to track changes in files, enabling you to work collaboratively on code
+(or other projects) and share code. You have to create an account on https://github.com/ 
+where you can create your own project and repository, and to access to ArcheoCode function’s files and script.
+You have to install git by following the steps on https://git-scm.com/downloads,
+it’s important to fork or copy-paste the repository of ArcheoCode onto your computer.
+It’s also very useful to download GitHub desktop which is a graphical user interface and enable you to push (upload)
+and pull (download) changes to/from remote repositories. It can be downloaded on window and Mac 
+through https://desktop.github.com/, you have to login onto your account through 
